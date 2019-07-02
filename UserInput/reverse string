@@ -1,0 +1,5 @@
+num = input("Enter your value: ")
+num = num.lower()
+print (num[::-1])
+
+
